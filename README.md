@@ -7,10 +7,6 @@ This project analyses the foraging behaviour of Egyptian Fruit Bats (Rousettus a
 1. **dataset1.csv** – Bat landing events with behavioural observations.
 2. **dataset2.csv** – Rat arrival events and aggregated bat activity in 30-minute intervals.
 
-## Objective
-Perform descriptive and inferential data analysis to investigate:
-- Bat avoidance behaviour and vigilance when rats are present.
-- Statistical analysis to test risk-taking behaviour and food access.
 
 ## Python Code
 - `Investigation.py` – Main Python script for data cleaning, descriptive statistics, inferential statistics, and visualization.
